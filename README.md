@@ -1,2 +1,3 @@
-# DBMS_Project
-Online Placement &amp; Training Management System
+# Online Placement &amp; Training Management System
+DBMS_Project
+
